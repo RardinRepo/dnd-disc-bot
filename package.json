@@ -1,0 +1,13 @@
+{
+  "name": "dndDiscBot",
+  "description": "This is a discord bot",
+  "version": "0.0.0",
+  "main": "dnd.js.js",
+  "scripts": {
+    "start": "node dnd.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
