@@ -30,6 +30,7 @@ client.login(process.env.BOT_TOKEN);//BOT_TOKEN is the Client Secret
 //     name: '', race: '', subrace: '', dndclass: '', dndsubclass: '', level: 1, 
 //     abilities: {
 //         strength: 0,
+
 //         dexterity: 0,
 //         constitution: 0,
 //         intellegence: 0,
