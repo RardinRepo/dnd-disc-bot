@@ -2,7 +2,7 @@
   "name": "dndDiscBot",
   "description": "This is a discord bot",
   "version": "0.0.0",
-  "main": "dnd.js.js",
+  "main": "dnd.js",
   "scripts": {
     "start": "node dnd.js"
   },
